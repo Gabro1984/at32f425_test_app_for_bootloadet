@@ -48,8 +48,8 @@ int main(void)
 
   while(1)
   {
-    at32_led_toggle(LED3);
-    delay_ms(500);
+    at32_led_toggle(LED4);
+    delay_ms(300);
   }
 }
 
